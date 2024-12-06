@@ -44,7 +44,7 @@ export function Pomodoro({ onClose, open, show }: PomodoroProps) {
   );
 
   const [times, setTimes] = useLocalStorage<Record<string, number>>(
-    'moodist-pomodoro-setting',
+    'Zensound-pomodoro-setting',
     defaultTimes,
   );
 
