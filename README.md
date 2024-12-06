@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/assets/banner.svg" alt="Moodist Logo Banner" />
-  <h2>Moodist 🌲</h2>
+  <h2>Zensound</h2>
   <p>Ambient sounds for focus and calm.</p>
   <a href="https://moodist.app">Visit <strong>Moodist</strong></a> | <a href="https://buymeacoffee.com/remvze">Buy Me a Coffee</a>
 </div>
@@ -74,7 +74,7 @@
 
 ⭐ Give a star if you liked this project.
 
-☕ [Buy Me a Coffee](https://buymeacoffee.com/remvze) to help me maintain Moodist.
+☕ [Buy author a Coffee](https://buymeacoffee.com/remvze) to help me maintain Moodist.
 
 ## License
 
