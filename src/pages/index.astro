@@ -1,6 +1,6 @@
 ---
 import Layout from '@/layouts/layout.astro';
-
+import AdSense from '@/components/AdSense.astro';
 import Donate from '@/components/donate.astro';
 import Hero from '@/components/hero.astro';
 import About from '@/components/about.astro';
@@ -13,7 +13,9 @@ import { App } from '@/components/app';
 <Layout title="Zensound: Ambient Sounds for Focus and Calm">
   <Donate />
   <Hero />
+  <AdSense />
   <App client:load />
+  <AdSense />
   <About />
   <Source />
   <Footer />

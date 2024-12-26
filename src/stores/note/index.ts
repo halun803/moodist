@@ -18,7 +18,7 @@ export const useNoteStore = create<NoteState & NoteActions>()(
           // @ts-ignore
           persisted,
         ),
-      name: 'moodist-note',
+      name: 'Zensound-note',
       partialize: state => ({ note: state.note }),
       skipHydration: true,
       storage: createJSONStorage(() => localStorage),
