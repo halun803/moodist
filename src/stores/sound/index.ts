@@ -18,7 +18,7 @@ export const useSoundStore = create<SoundState & SoundActions>()(
           // @ts-ignore
           persisted,
         ),
-      name: 'moodist-sounds',
+      name: 'Zensound-sounds',
       partialize: state => ({ sounds: state.sounds }),
       skipHydration: true,
       storage: createJSONStorage(() => localStorage),

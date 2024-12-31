@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="/assets/banner.svg" alt="Moodist Logo Banner" />
+  <img src="/assets/banner.svg" alt="Zensound Logo Banner" />
   <h2>Zensound</h2>
   <p>Ambient sounds for focus and calm.</p>
-  <a href="https://moodist.app">Visit <strong>Moodist</strong></a> | <a href="https://buymeacoffee.com/remvze">Buy Me a Coffee</a>
+  <a href="https://Zensound.app">Visit <strong>Zensound</strong></a> | <a href="https://buymeacoffee.com/remvze">Buy Me a Coffee</a>
 </div>
 
 ## Table of Contents
@@ -11,7 +11,7 @@
 - 🧰 [Tools](#tools)
 - 🔮 [Commands](#commands)
 - 🚧 [Contributing](#contributing)
-- ⭐ [Support](#support-moodist)
+- ⭐ [Support](#support-Zensound)
 - 📜 [License](#license)
 
 ## Features
@@ -70,11 +70,11 @@
 
 🚧 Please check [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## Support Moodist
+## Support Zensound
 
 ⭐ Give a star if you liked this project.
 
-☕ [Buy author a Coffee](https://buymeacoffee.com/remvze) to help me maintain Moodist.
+☕ [Buy author a Coffee](https://buymeacoffee.com/remvze) to help me maintain Zensound.
 
 ## License
 
